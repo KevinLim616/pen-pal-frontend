@@ -4,6 +4,7 @@
 	import NavButton from "../lib/navButton.svelte";
 	import onlineFriend from "../lib/images/online-friends.png";
 	import fear from "../lib/images/Stress-bro.png";
+
   </script>
   
   <svelte:head>
@@ -17,7 +18,7 @@
 		  Share your thoughts and <br /> distress <br /> here with someone
 		</h1>
 		<div class="lg:mt-9 lg:flex">
-		  <NavButton text="Login Now" path="#" />
+		  <NavButton text="Login Now" path="auth" />
 		</div>
 	  </div>
 	  <div>
