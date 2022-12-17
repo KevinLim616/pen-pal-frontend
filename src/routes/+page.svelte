@@ -58,4 +58,13 @@
 	  </div>
 	</div>
   </section>
+  <section class="p-[200px]">
+		<h1 class="text-5xl font-bold flex justify-center items-center ">
+			Pen Pal
+		</h1>
+<div class="flex justify-center items-center mt-6">
+	<NavButton text="Sign Up Now" path="#" />
+
+</div>
+  </section>
   
